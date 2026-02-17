@@ -103,6 +103,7 @@ _Practical walkthrough for integrating Claude Code into your development workflo
 ### 🎨 IDE Extensions
 
 - [Claude Code Chat](https://github.com/andrepimenta/claude-code-chat#readme) — Beautiful native chat interface for Claude Code within VS Code with conversation history and MCP support.
+- [Claude Code Theme](https://github.com/ashwingopalsamy/claude-code-theme) — Claude-inspired VS Code theme pack with dark/light/high-contrast and brand variants, semantic token tuning, and ANSI-optimized terminal colors.
 - [Claude VSCode Theme](https://marketplace.visualstudio.com/items?itemName=AlvinUnreal.claude-vscode-theme) — Thoughtful dark theme collection with classic and italic variants. Inspired by Claude AI with carefully balanced contrast and warm syntax colors.
 
 ### 🌐 Browser Extensions
