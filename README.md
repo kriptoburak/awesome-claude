@@ -7,14 +7,6 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 
 ---
 
-<div align="center">
-
-**👉 Also check out:** [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) — A curated list of awesome WebMCP resources, tools, and projects.
-
-</div>
-
----
-
 ## 📋 Contents
 
 - [🏢 Official Anthropic Resources](#-official-anthropic-resources)
@@ -24,6 +16,16 @@ AI assistant by Anthropic for complex reasoning, code generation, and analysis t
 - [💻 Applications](#-applications)
 - [📚 Educational Resources](#-educational-resources)
 - [👥 Community](#-community)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/webfuse-com/awesome-webmcp"><img src="assets/webmcp-deverlopers.png" alt="awesome-webmcp" height="80" style="border-radius: 16px;"></a>
+
+**Building with the Web?** Check out [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) - a curated list of awesome things related to the WebMCP W3C standard.
+
+</div>
 
 ---
 
